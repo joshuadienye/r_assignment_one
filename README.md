@@ -11,7 +11,5 @@ c) Get the R help document for the function that trains the model (hint: fist, f
 
 # Chapter 4.4
 10. Create a user defined function that can clean up almost any data frame using a loop. The function inputs are the dataset name and the column indexes that we want to clean up. 
-
 The loop inside the function will take column indexes (from the call inputs) and remove observations with empty values.
-
 Test your function with any dataset found on the www.images.aqr.com/Insights/Datasets website.
